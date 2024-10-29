@@ -20,10 +20,7 @@ www.google.com
 
 ```javascript
 function hello(){
-    print("hi");
+    print('나는요 오빠가 좋은걸 어떡해!');
 }
 ```
 
--나는요
-*오빠가
-+좋은걸
