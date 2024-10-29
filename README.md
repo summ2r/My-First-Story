@@ -18,4 +18,12 @@ _종강하면 무엇을 하지?_
 
 www.google.com
 
+```javascript
+function hello(){
+    print("hi");
+}
+```
 
+-나는요
+*오빠가
++좋은걸
